@@ -1,3 +1,5 @@
+## Sona: DeFAI SonaVault based on Soneium
+
 Sona is a next-generation decentralized finance (DeFi) platform built on the **Soneium network**, utilizing **Account Abstraction (AA)** technology to simplify DeFi interactions for users. By combining **AI-powered vault strategies**, **cross-chain capabilities**, and a **gasless user experience**, Sona empowers users to easily optimize their crypto investments without the complexities typically associated with DeFi. Whether you’re a beginner or an advanced user, Sona’s seamless and personalized services are designed to maximize returns with minimal effort.
 
 ## Motivation
