@@ -13,16 +13,14 @@ export const Hero = () => {
               Explore the future of decentralized finance with Sona
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
-              <Link to="/portfolio">
-                <button className="px-6 py-2 rounded-lg bg-card border border-gray-700 text-white font-bold 
+              <Link to="/portfolio"
+                className="px-6 py-2 rounded-lg bg-card border border-gray-700 text-white font-bold 
                 text-lg hover:bg-card/80 transition-all">
                   Portfolio
-                </button>
               </Link>
-              <Link to="/vault">
-                <button className="bg-gradient-to-r from-purple-600 to-purple-800 hover:from-purple-700 hover:to-purple-900 text-white font-bold text-lg px-6 py-2 rounded-lg shadow-lg transition-all duration-300 hover:shadow-purple-500/25">
+              <Link to="/vault"
+                className="bg-gradient-to-r from-purple-600 to-purple-800 hover:from-purple-700 hover:to-purple-900 text-white font-bold text-lg px-6 py-2 rounded-lg shadow-lg transition-all duration-300 hover:shadow-purple-500/25">
                   Explore
-                </button>
               </Link>
             </div>
           </div>
@@ -51,16 +49,15 @@ export const Hero = () => {
                 </p>
               </div>
             </div>
-            <Link to="/docs">
-              <button className="bg-gradient-to-r from-purple-600 to-purple-800 hover:from-purple-700 hover:to-purple-900 text-white px-6 py-2 rounded-lg text-sm shadow-lg transition-all duration-300 hover:shadow-purple-500/25 mr-6">
+            <Link to="/docs"
+              className="bg-gradient-to-r from-purple-600 to-purple-800 hover:from-purple-700 hover:to-purple-900 text-white px-6 py-2 rounded-lg text-sm shadow-lg transition-all duration-300 hover:shadow-purple-500/25 mr-6">
                 Learn more
-              </button>
             </Link>
           </div>
         </div>
       </div>
 
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(147,51,234,0.15),transparent_70%)]" />
+      {/* <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(147,51,234,0.15),transparent_70%)]" /> */}
     </section>
   );
 };
