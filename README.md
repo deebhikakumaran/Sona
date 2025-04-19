@@ -8,26 +8,21 @@
 #### [Vault Contract]() | [Agent]() | [Superchain Contract]()
 
 ## Overview
-
 Sona is a smart, autonomous DeFi vault platform built for the Soneium Network. It enables users to passively grow their crypto assets by automatically optimizing yield across top-performing vaults in the ecosystem. Sona removes the complexities of DeFi through Account Abstraction (AA) and AI-driven automated strategies.
 
 ## Motivation
-
 The DeFi market continues to grow rapidly, with increasing TVL across multi-chain ecosystems. However, most users remain inactive due to usability barriers. There’s a demand for simplified tools that abstract away technical details while still providing high returns. Sona targets both new DeFi users and passive crypto holders who want smarter asset growth.
 
 ## Market
-
 The DeFi market is growing rapidly, with billions locked in decentralized protocols across a wide range of chains. However, the market remains fragmented, with numerous barriers such as high gas fees, complexity in managing cross-chain assets, and a lack of easy-to-understand user experiences. Sona is targeting this gap by offering a **simplified** and **user-first** approach to investing in DeFi with **AI-powered optimization**. The platform will appeal to both beginner users who are just getting started in DeFi and experienced users who want more advanced, passive income strategies.
 
 ## Problem
-
 - Navigating DeFi is complex and often intimidating.
 - Users must bridge assets, choose protocols, and manually manage yield strategies.
 - High gas fees and complex interfaces are blockers.
 - Users miss out on optimal rewards because of fragmented vault options across protocols.
 
 ## Solution
-
 Sona solves these problems by offering:
 
 - Automated vault selection and optimization powered by AI
@@ -36,7 +31,6 @@ Sona solves these problems by offering:
 - Seamless UX for deposit, yield farming, and reward claiming without user friction
 
 ## Key Feature
-
 - AI Agent: Fully automated asset management and rebalancing based on APY and platform performance
 - Cross-chain Yield Access: Bridge, swap, and invest in top-performing pools across multiple networks
 - Portfolio Dashboard: Real-time updates on yields, tokens, and growth
@@ -55,15 +49,15 @@ Sona solves these problems by offering:
 | **Security** | Multi-signature security and modular vaults, with future audit plans. | Audited by yAudit and Gerard Persoon. |
 | **Target Audience** | Beginner and advanced users, with an emphasis on travelers and non-crypto native individuals. | DeFi users looking for yield opportunities with minimal intervention. |
 
-## Key Features
+## How It Works (3 Steps)
+**1. Deposit**
+- User connects wallet (or social login via AA), chooses a vault, and deposits tokens.
 
-1. **AI-Powered Vault Recommendations**
-    - Personalized vault suggestions based on **user preferences**, **market conditions**, and **risk tolerance**.
-2. **Gasless Vault Transactions (via Account Abstraction)**
-    - Users don’t need to worry about gas fees. Vault deposits and interactions are optimized for **zero gas** transactions.
-3. **Cross-Chain Vault Management**
-    - Supports multiple chains (e.g., **Soneium**, **Optimism**), allowing users to easily take advantage of **cross-chain yield opportunities**.
-4. **Dynamic Portfolio Rebalancing**
-    - Automated AI-driven rebalancing based on **real-time market analysis**, ensuring optimal yield maximization with minimal user input.
-5. **Yield Optimization & Risk Management**
-    - Utilizes **AI analysis**, **market sentiment**, and **risk assessments** to adjust vault allocations dynamically.
+**2. Automatic Strategy Execution**
+- The AI agent automatically selects the best vault strategy based on real-time data (APY, rewards, token performance) and executes bridging/swapping if necessary.
+
+**3. Passive Yield & Auto Exit**
+- Once the vault term matures, the AI agent claims rewards, rebalances if needed, and allows automatic withdrawal. The user simply tracks everything from the dashboard.
+
+## Summary
+Sona is a gasless, intelligent DeFi vault platform designed to simplify and automate yield farming. By integrating Soneium’s top protocols and using AI to manage funds, Sona helps users passively grow their crypto assets with the best returns—without any of the hassle.
