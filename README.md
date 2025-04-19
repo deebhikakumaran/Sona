@@ -21,21 +21,27 @@ The DeFi market is growing rapidly, with billions locked in decentralized protoc
 
 ## Problem
 
-1. **DeFi Complexity**: Many users find it challenging to navigate through various DeFi protocols, especially with manual asset management, yield optimizations, and understanding risk.
-2. **Gas Fees**: High gas fees can eat into profits, especially for smaller or frequent transactions.
-3. **Fragmented Cross-Chain Ecosystem**: DeFi users have to manage assets across different chains, which can be cumbersome and lead to missed yield opportunities.
-4. **Lack of Personalization**: Many platforms offer generalized solutions that don’t take into account an individual’s unique risk profile or goals.
+- Navigating DeFi is complex and often intimidating.
+- Users must bridge assets, choose protocols, and manually manage yield strategies.
+- High gas fees and complex interfaces are blockers.
+- Users miss out on optimal rewards because of fragmented vault options across protocols.
 
 ## Solution
 
-Sona provides a **personalized, AI-driven vault management system** that optimizes yield across multiple DeFi protocols. By integrating **Account Abstraction (AA)** technology, Sona offers **gasless transactions**, and by using cross-chain capabilities (e.g., Optimism), it enables users to easily take advantage of opportunities across multiple ecosystems.
+Sona solves these problems by offering:
 
-Key features include:
+- Automated vault selection and optimization powered by AI
+- Gasless experience through Account Abstraction
+- Auto-bridging, swapping, and rebalancing, all managed by Sona's backend
+- Seamless UX for deposit, yield farming, and reward claiming without user friction
 
-- **AI-powered vault recommendations** based on the user’s risk profile.
-- **Gasless vault transactions** via Account Abstraction.
-- **Cross-chain interactions** to take advantage of opportunities in different blockchain ecosystems.
-- **Adaptive yield strategies** based on market signals, risk, and historical performance.
+## Key Feature
+
+- AI Agent: Fully automated asset management and rebalancing based on APY and platform performance
+- Cross-chain Yield Access: Bridge, swap, and invest in top-performing pools across multiple networks
+- Portfolio Dashboard: Real-time updates on yields, tokens, and growth
+- Modular Vault Architecture: Strategy-isolated vaults designed for scalability and safety
+- Gasless Interaction: Powered by Account Abstraction (AA) and Smart Contract System (SCS)
 
 ## Benchmark
 
