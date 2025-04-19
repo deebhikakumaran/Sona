@@ -9,11 +9,11 @@
 
 ## Overview
 
-Sona is a next-generation decentralized finance (DeFi) platform built on the **Soneium network**, utilizing **Account Abstraction (AA)** technology to simplify DeFi interactions for users. By combining **AI-powered vault strategies**, **cross-chain capabilities**, and a **gasless user experience**, Sona empowers users to easily optimize their crypto investments without the complexities typically associated with DeFi. Whether you’re a beginner or an advanced user, Sona’s seamless and personalized services are designed to maximize returns with minimal effort.
+Sona is a smart, autonomous DeFi vault platform built for the Soneium Network. It enables users to passively grow their crypto assets by automatically optimizing yield across top-performing vaults in the ecosystem. Sona removes the complexities of DeFi through Account Abstraction (AA) and AI-driven automated strategies.
 
 ## Motivation
 
-The motivation behind Sona is to create a user-friendly platform that makes sophisticated DeFi strategies accessible to everyone. DeFi is powerful but can be intimidating for newcomers due to the complexity of managing transactions, understanding yield farming strategies, and dealing with gas fees. With Sona, we aim to democratize DeFi by leveraging **AI** to automate decision-making, making high-yield strategies accessible with a **gasless** experience.
+The DeFi market continues to grow rapidly, with increasing TVL across multi-chain ecosystems. However, most users remain inactive due to usability barriers. There’s a demand for simplified tools that abstract away technical details while still providing high returns. Sona targets both new DeFi users and passive crypto holders who want smarter asset growth.
 
 ## Market
 
